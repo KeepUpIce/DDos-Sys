@@ -110,6 +110,9 @@ if (!isset($_SESSION['username'])) {
               <p style="color:white;font-size: 25px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opendaylight + OpenFlow1.0</p><br>
               <p style="color:white;font-size: 25px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opendaylight + OpenFlow1.3</p><br>
               <p style="color:white;font-size: 25px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Opendaylight + OpenFlow1.5</p><br>
+              <br>
+              <p style="color:white; font-size: 25px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="网络拓扑.html" style="color: #0FFFFF;">点击跳转至网络拓扑图</a></p>
+
             </div>
               
           </div>

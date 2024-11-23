@@ -139,6 +139,9 @@ setInterval(fetchygtData, 1000);
 ![image](https://github.com/user-attachments/assets/8f78311c-187b-4dab-b7fd-c36ee00e2efa)
 
 
+## 2024.11.23Ajax异步功能支持CSV数据源读取
+
+上传文件：index_new.php，将CSV文件置于index_new.php同目录即可。
 
 
 
